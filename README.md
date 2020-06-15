@@ -1,3 +1,2 @@
 # testing_talento
-
-Probando cambios Stefano ;)
+probando un cambio... borrar despues.
